@@ -1,8 +1,11 @@
 #include<stdio.h>
 
 int main(){
-
-	printf("hello github");
+	int a=10,b=20;
+	int c=a+b;
+	printf("c=%d\n",c);
+	printf("hello world\n");
+	printf("hello github\n");
 
 	return 0;
 }
