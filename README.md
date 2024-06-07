@@ -126,8 +126,6 @@ ssh -T git@github.com    #ssh远程登录
    2. git remote origin remove    *#删除地址别名
    
    ```
-![202406072346691](https://github.com/xxtenction/new_colin/assets/129744215/84ce64b4-ca46-44d4-9195-17f287399feb)
-
 
 
 ##### 3.2 本地资源上传
@@ -181,9 +179,9 @@ git push origin(云端仓库地址) master
 #将本地分支上传到云端，如果分支重名则合并；否则远端创建新的分支保存上传内容
 ```
 
-![image-20240607125008209](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240607125008209.png)
+![image-20240607125008209](work/20240607125008209.png)
 
-![image-20240607125002296](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240607125002296.png)
+![image-20240607125002296](work/202406072350213.png)
 
 
 
