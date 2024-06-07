@@ -5,7 +5,7 @@ int main(){
 	int c=a+b;
 	printf("c=%d\n",c);
 	printf("hello world\n");
-	printf("hello github\n");
+	printf("hello\n");
 
 	return 0;
 }
