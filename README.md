@@ -126,8 +126,8 @@ ssh -T git@github.com    #ssh远程登录
    2. git remote origin remove    *#删除地址别名
    
    ```
+![202406072346691](https://github.com/xxtenction/new_colin/assets/129744215/84ce64b4-ca46-44d4-9195-17f287399feb)
 
-![Uploading 90709dc517aa52eecc644597b97e121.png…](work/202406072346691.png)
 
 
 ##### 3.2 本地资源上传
