@@ -127,13 +127,15 @@ ssh -T git@github.com    #ssh远程登录
    
    ```
 
-![image-20240606144457214](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606144457214.png)
+![Uploading 90709dc517aa52eecc644597b97e121.png…]()
+
 
 ##### 3.2 本地资源上传
 
-![image-20240607175252397](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240607175252397.png)
+![Uploading 65478670aa8f6bda5ce5f7f0149efcb.png…]()
 
-![image-20240606142428151](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606142428151.png)
+![24568ec1fdc22ff9c29067a7babce48](https://github.com/xxtenction/new_colin/assets/129744215/d3d5b80a-d236-43d0-a731-ced183765938)
+
 
 1.创建本地仓库.git
 
@@ -141,8 +143,7 @@ ssh -T git@github.com    #ssh远程登录
 git init
 ```
 
-![image-20240606142337005](42839c32256c6851e4580b6da50a118.png)
-
+![Uploading 57df345d3b6799d23956f254216c736.png…]()
 2.将数据添加到缓冲区
 
 ![image-20240606144637557](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606144637557.png)
