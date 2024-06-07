@@ -141,7 +141,7 @@ ssh -T git@github.com    #ssh远程登录
 git init
 ```
 
-![image-20240606142337005](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606142337005.png)
+![image-20240606142337005](42839c32256c6851e4580b6da50a118.png)
 
 2.将数据添加到缓冲区
 
