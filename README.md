@@ -66,7 +66,7 @@ Github网站仓库中的工程、已上线发布的工程，开发者可以随�
 git config --list
 ```
 
-![image-20240606134228678](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606134228678.png)
+[![d37e36db35a9b1509d324c499a3b35d.png](https://i.postimg.cc/CLvV1Yk8/d37e36db35a9b1509d324c499a3b35d.png)](https://postimg.cc/svZL6knf)
 
 
 
