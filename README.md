@@ -204,8 +204,6 @@ git rm filename    *#删除本地仓库的同时删除本地文件，无法还�
 
 
 
-
-
 ##### 3.4 获取云端数据
 
 ###### 3.4.1 下载源码
@@ -226,7 +224,7 @@ git clone https项目地址
 git pull #获取云端仓库数据
 ```
 
-![image-20240607161345265](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240607161345265.png)
+![image-20240607161345265](https://cdn.jsdelivr.net/gh/xxtenction/new_colin@main/work/202406072356449.png)
 
 **为什么不在云端直接修改，而是要通过git提交?**
 
