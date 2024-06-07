@@ -1,3 +1,8 @@
+---
+typora-copy-images-to: ./
+
+---
+
 #### 一,认识github
 
 ##### 1.1Github标签
@@ -66,7 +71,7 @@ Github网站仓库中的工程、已上线发布的工程，开发者可以随�
 git config --list
 ```
 
-[![d37e36db35a9b1509d324c499a3b35d.png](https://i.postimg.cc/CLvV1Yk8/d37e36db35a9b1509d324c499a3b35d.png)](https://postimg.cc/svZL6knf)
+![image-20240607214813639](C:/Users/lenovo/AppData/Roaming/Typora/typora-user-images/image-20240607214813639.png)
 
 
 
@@ -84,7 +89,8 @@ ssh-keygen -t rsa -C 注册邮箱
 ```
 
 
-[![fd05864eda098ba6040cb6b83b12f3b.png](https://i.postimg.cc/HnxBPGnG/fd05864eda098ba6040cb6b83b12f3b.png)](https://postimg.cc/8J2Rj0Lw)
+
+![image-20240606133753273](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606133753273.png)
 
 \4)查看生成的 SSH 公钥
 
@@ -92,7 +98,7 @@ ssh-keygen -t rsa -C 注册邮箱
 cat /c/Users/lenovo/.ssh/id_rsa.pub
 ```
 
-[![3840090368278ea4ab61e6c1d78b92c.png](https://i.postimg.cc/ZRfLNfcw/3840090368278ea4ab61e6c1d78b92c.png)](https://postimg.cc/XGCFSkt5)
+![image-20240606141028554](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606141028554.png)
 
 \5) 在Github上添加ssh公钥
 
@@ -104,7 +110,7 @@ Settings -> SSH and GPG keys-> New SSH key
 
 
 
-[![bcf64a7b854a6aa9adce5768d9628e4.png](https://i.postimg.cc/Xv4KzM12/bcf64a7b854a6aa9adce5768d9628e4.png)](https://postimg.cc/RWpnWYBf)
+![image-20240606140846677](https://cdn.jsdelivr.net/gh/xxtenction/new_colin@main/work/202406072345405.png)
 
 
 
@@ -114,7 +120,8 @@ Settings -> SSH and GPG keys-> New SSH key
 ssh -T git@github.com    #ssh远程登录
 ```
 
-[![b9606f5807649a564eb9f791ba480bc.png](https://i.postimg.cc/cCpw7P8B/b9606f5807649a564eb9f791ba480bc.png)](https://postimg.cc/30ZkYS1k)
+![image-20240606141110963](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606141110963.png)
+
 
 
 
@@ -127,13 +134,13 @@ ssh -T git@github.com    #ssh远程登录
    
    ```
 
+![image-20240606144457214](https://cdn.jsdelivr.net/gh/xxtenction/new_colin@main/work/202406072346691.png)
 
 ##### 3.2 本地资源上传
 
-![Uploading 65478670aa8f6bda5ce5f7f0149efcb.png…]()
+![image-20240607175252397](https://cdn.jsdelivr.net/gh/xxtenction/new_colin@main/work/202406072350604.png)
 
-![24568ec1fdc22ff9c29067a7babce48](https://github.com/xxtenction/new_colin/assets/129744215/d3d5b80a-d236-43d0-a731-ced183765938)
-
+![image-20240606142428151](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606142428151.png)
 
 1.创建本地仓库.git
 
@@ -141,7 +148,8 @@ ssh -T git@github.com    #ssh远程登录
 git init
 ```
 
-![Uploading 57df345d3b6799d23956f254216c736.png…]()
+![image-20240606142337005](https://cdn.jsdelivr.net/gh/xxtenction/new_colin@main/work/202406072350521.png)
+
 2.将数据添加到缓冲区
 
 ![image-20240606144637557](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606144637557.png)
@@ -152,9 +160,9 @@ git add filename    #将数据资源添加到git缓冲区
 git status    #查看git缓冲区
 ```
 
-![image-20240606142457461](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606142457461.png)
+![image-20240606142457461](https://cdn.jsdelivr.net/gh/xxtenction/new_colin@main/work/202406072350142.png)
 
-![image-20240606142516501](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606142516501.png)
+![image-20240606142516501](https://cdn.jsdelivr.net/gh/xxtenction/new_colin@main/work/202406072350809.png)
 
 3、将缓冲区数据提交到本地仓库
 
@@ -167,9 +175,9 @@ git commit -m "备注信息"    #生成提交记录
 
 
 
-![image-20240606142810502](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606142810502.png)
+![image-20240606142810502](https://cdn.jsdelivr.net/gh/xxtenction/new_colin@main/work/202406072350882.png)
 
-![image-20240606142903672](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606142903672.png)
+![image-20240606142903672](https://cdn.jsdelivr.net/gh/xxtenction/new_colin@main/work/202406072350902.png)
 
 4、将本地仓库内容推到云端仓库
 
@@ -179,9 +187,9 @@ git push origin(云端仓库地址) master
 #将本地分支上传到云端，如果分支重名则合并；否则远端创建新的分支保存上传内容
 ```
 
-![image-20240607125008209](work/20240607125008209.png)
+![image-20240607125008209](https://cdn.jsdelivr.net/gh/xxtenction/new_colin@main/work/202406072350982.png)
 
-![image-20240607125002296](work/202406072350213.png)
+![image-20240607125002296](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240607125002296.png)
 
 
 
@@ -199,8 +207,6 @@ git restore filename
 ```bash
 git rm filename    *#删除本地仓库的同时删除本地文件，无法还原*
 ```
-
-
 
 
 
@@ -242,7 +248,9 @@ git rebase --skip     #需略旧版，更新本地后可以上传 跳过冲突�
 git rebase --continue #版本合并，解决冲突后可以直接上传 继续变基数
 ```
 
-![4887e414343408239d2fb6c121267dd](https://github.com/xxtenction/new_colin/assets/129744215/940a7c4a-61df-4d0b-a4c8-19130b1c14fd)
+![image-20240607163037273](https://cdn.jsdelivr.net/gh/xxtenction/new_colin@main/work/202406072350213.png)
+
+![image-20240607163719141](https://cdn.jsdelivr.net/gh/xxtenction/new_colin@main/work/202406072358217.png)
 
 
 
