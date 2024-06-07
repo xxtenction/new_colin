@@ -245,12 +245,11 @@ git rebase --skip     #需略旧版，更新本地后可以上传 跳过冲突�
 git rebase --continue #版本合并，解决冲突后可以直接上传 继续变基数
 ```
 
-![image-20240607163037273](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240607163037273.png)
-
-![image-20240607163719141](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240607163719141.png)
+![4887e414343408239d2fb6c121267dd](https://github.com/xxtenction/new_colin/assets/129744215/940a7c4a-61df-4d0b-a4c8-19130b1c14fd)
 
 
 
+![cd79c502ed5742fff2148319a963489](https://github.com/xxtenction/new_colin/assets/129744215/2cdb987a-2a5a-4849-9d72-67c563b3126f)
 
 
 
