@@ -84,8 +84,7 @@ ssh-keygen -t rsa -C 注册邮箱
 ```
 
 
-
-![image-20240606133753273](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606133753273.png)
+[![fd05864eda098ba6040cb6b83b12f3b.png](https://i.postimg.cc/HnxBPGnG/fd05864eda098ba6040cb6b83b12f3b.png)](https://postimg.cc/8J2Rj0Lw)
 
 \4)查看生成的 SSH 公钥
 
