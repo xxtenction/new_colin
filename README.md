@@ -92,7 +92,7 @@ ssh-keygen -t rsa -C 注册邮箱
 cat /c/Users/lenovo/.ssh/id_rsa.pub
 ```
 
-![image-20240606141028554](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606141028554.png)
+[![3840090368278ea4ab61e6c1d78b92c.png](https://i.postimg.cc/ZRfLNfcw/3840090368278ea4ab61e6c1d78b92c.png)](https://postimg.cc/XGCFSkt5)
 
 \5) 在Github上添加ssh公钥
 
@@ -104,7 +104,7 @@ Settings -> SSH and GPG keys-> New SSH key
 
 
 
-![image-20240606140846677](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606140846677.png)
+[![bcf64a7b854a6aa9adce5768d9628e4.png](https://i.postimg.cc/Xv4KzM12/bcf64a7b854a6aa9adce5768d9628e4.png)](https://postimg.cc/RWpnWYBf)
 
 
 
@@ -114,8 +114,7 @@ Settings -> SSH and GPG keys-> New SSH key
 ssh -T git@github.com    #ssh远程登录
 ```
 
-![image-20240606141110963](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240606141110963.png)
-
+[![b9606f5807649a564eb9f791ba480bc.png](https://i.postimg.cc/cCpw7P8B/b9606f5807649a564eb9f791ba480bc.png)](https://postimg.cc/30ZkYS1k)
 
 
 
