@@ -69,6 +69,6 @@ markdown 文本修饰语言，用特殊符号修饰正文效果<br>
  [Github](https://www.github.com “点击访问")
 
 ### 插入图片
-![图片](C://Users//lenovo//Desktop//1.png"图片演示")
+![图片](C:\Users\lenovo\Desktop\1.png"图片演示")
    
    
