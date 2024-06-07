@@ -127,7 +127,7 @@ ssh -T git@github.com    #ssh远程登录
    
    ```
 
-![Uploading 90709dc517aa52eecc644597b97e121.png…]()
+![Uploading 90709dc517aa52eecc644597b97e121.png…](work/202406072346691.png)
 
 
 ##### 3.2 本地资源上传
