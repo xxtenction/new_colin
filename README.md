@@ -264,9 +264,6 @@ git rebase --continue #版本合并，解决冲突后可以直接上传 继续�
 
 ![image-20240607210526461](https://cdn.jsdelivr.net/gh/xxtenction/new_colin@main/work/202406080001429.png)
 
-![cd79c502ed5742fff2148319a963489](https://github.com/xxtenction/new_colin/assets/129744215/2cdb987a-2a5a-4849-9d72-67c563b3126f)
-
-
 
 
 
